@@ -99,7 +99,7 @@ Volontairement documentées dans le rapport (section 21.3) :
 
 ## Contact
 
-- **Auteur** : Mahé Begnis
+- **Auteurs** : Mahé Begnis, Rémy Rayane, Jibril Bensalem
 - **Formation** : M1 Data & IA
 - **Année** : 2026
 
