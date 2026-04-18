@@ -95,7 +95,6 @@ Volontairement documentées dans le rapport (section 21.3) :
 - **Ioannidis et al.**, *American Journal of Human Genetics* (2016) — REVEL
 - **Alirezaie et al.**, *American Journal of Human Genetics* (2019) — ClinPred
 - **Lundberg et al.**, *Nature Machine Intelligence* (2020) — TreeSHAP
-- **Garber et al.**, *Journal of Molecular Diagnostics* (2016) — conflits de classification dans ClinVar
 
 ## Contact
 
